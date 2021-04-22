@@ -5,8 +5,8 @@ This repo contains a python notebook which fetches the total volume for all pair
 ## How to use
 
 1. Get your API keys from [Etherscan](https://etherscan.io/) and [Ethplorer](https://ethplorer.io/).
-2. Replace the API keys where appropriate
-3. Run the rest of the notebook
+2. Replace the API keys where appropriate.
+3. Run the rest of the notebook.
 4. Change block numbers as required.
 
 Note: There are rate limits on the API calls, the exact numbers can be found on the respective websites. The daily volume may change depending on the timezone used as they may cut off at different times.
